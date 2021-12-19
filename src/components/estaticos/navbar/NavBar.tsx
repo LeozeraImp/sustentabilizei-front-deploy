@@ -18,7 +18,7 @@ function Navbar() {
 
     function goLogout() {
         dispatch(addToken(""));
-        toast.info("Usurio logado", {
+        toast.info("Usuario deslogado", {
             position: "top-right",
             autoClose: 2000,
             hideProgressBar: false,
@@ -55,22 +55,15 @@ function Navbar() {
 
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
-                            Postagem
-                        </Typography>
-                    </Box>
-
-                    <Box mx={1} style={{ cursor: "pointer" }} >
-                        <Typography variant="h6" className="texto">
                             Tema
                         </Typography>
                     </Box>
 
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
-                            Cadastar Tema
+                            Cadastrar Tema
                         </Typography>
                     </Box>
-
 
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
@@ -84,15 +77,12 @@ function Navbar() {
                         </Typography>
                     </Box>
 
-
-                    <Box mx={1} style={{ cursor: "pointer" }} onClick={goLogout}>
+                </Box>
+                <Box mx={1} style={{ cursor: "pointer" }} onClick={goLogout}>
                         <Typography variant="h6" className="texto">
                             Logout
                         </Typography>
                     </Box>
-
-
-                </Box>
 
             </Toolbar>
         </AppBar>
@@ -115,13 +105,13 @@ function Navbar() {
                     </Box>
 
                     <Box mx={1} style={{ cursor: "pointer" }} >
-                        <Typography variant="h6" className="texto">
-                            Sobre NÃ³s
+                        <Typography variant="h6" className="texto" id="texto1">
+                            Sobre Nós
                         </Typography>
                     </Box>
 
                     <Box mx={1} style={{ cursor: "pointer" }} >
-                        <Typography variant="h6" className="texto">
+                        <Typography variant="h6" className="texto" id="texto2">
                             Contatos
                         </Typography>
                     </Box>
