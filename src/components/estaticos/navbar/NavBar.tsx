@@ -47,35 +47,45 @@ function Navbar() {
                    marginLeft = "200px" ></Box>
 
                 <Box display="flex" justifyContent="start"> 
+                    <Link to = "/feed">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Feed
                         </Typography>
                     </Box>
+                    </Link>
 
+                    <Link to = "/temas">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Tema
                         </Typography>
                     </Box>
+                    </Link>
 
+                    <Link to = "/cadastrarTema">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Cadastrar Tema
                         </Typography>
                     </Box>
+                    </Link>
 
+                    <Link to = "/postagens">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Postagens
                         </Typography>
                     </Box>
+                    </Link>
 
+                    <Link to = "/CadastroPost">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Cadastrar Postagens
                         </Typography>
                     </Box>
+                    </Link>
 
                 </Box>
                 <Box mx={1} style={{ cursor: "pointer" }} onClick={goLogout}>
