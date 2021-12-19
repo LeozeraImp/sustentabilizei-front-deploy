@@ -63,7 +63,7 @@ function Navbar() {
                     </Box>
                     </Link>
 
-                    <Link to = "/cadastrarTema">
+                    <Link to = "/formularioTema">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Cadastrar Tema
@@ -71,7 +71,7 @@ function Navbar() {
                     </Box>
                     </Link>
 
-                    <Link to = "/postagens">
+                    <Link to = "/posts">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Postagens
@@ -79,7 +79,7 @@ function Navbar() {
                     </Box>
                     </Link>
 
-                    <Link to = "/CadastroPost">
+                    <Link to = "/formularioPostagem">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Cadastrar Postagens
