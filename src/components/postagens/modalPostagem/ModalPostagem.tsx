@@ -60,14 +60,18 @@ function ModalPostagem() {
 
     return (
         <div>
-            <Button
-                onClick={handleOpen}>
-                <SpeedDial
-                    ariaLabel="SpeedDial openIcon example"
-                    icon={<SpeedDialIcon openIcon={<EditIcon />} />}
-                >
-                </SpeedDial>
+            <Box marginRight={1} sx={{ position: 'fixed', bottom: 16, right: 16 }} >
+                <Button
+                    onClick={handleOpen}
+                    >
+                    <SpeedDial
+                        ariaLabel="SpeedDial openIcon example"
+                        icon={<SpeedDialIcon openIcon={<EditIcon />} />}
+
+                    >
+                    </SpeedDial >
                 </Button>
+            </Box>
             <Modal
                 open={open}
                 onClose={handleClose}

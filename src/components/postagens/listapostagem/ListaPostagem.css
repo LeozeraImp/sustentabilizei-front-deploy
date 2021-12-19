@@ -1,6 +1,5 @@
-
 .card-postagem{
-    background: #bfeb55;
+    background: #263165;
     width: 500px!important;
     height: 300px!important;
     border-radius: 10px!important;
@@ -19,4 +18,36 @@
 
 }.text-decorator-none{
     text-decoration: none;
+}
+
+.font-feed{
+    color: white;
+}
+
+.font-feed-tema{
+    color: #88c636;
+    font-style: italic;
+}
+
+.font-feed-user{
+    color: #88c636;
+    font-weight: bold;
+}
+
+.perfil-icon{
+    font-size: 50px !important;
+    color: #88c636;
+    margin-top: -15px;
+    margin-right: 5px;
+    margin-left: -5px;
+}
+
+.dot-icon{
+    font-size: 30px !important;
+    color: #88c636;
+    margin-top: 1px;
+}
+
+.option-icon{
+    color: white !important;
 }
