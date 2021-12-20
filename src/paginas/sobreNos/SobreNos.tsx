@@ -25,13 +25,9 @@ function SobreNos() {
           <Box className="fontes.a">
             <Typography variant="h6" className="sus-titulo">
               {" "}
-              A SE INTERESSAR PELA SUSTENTABILIDADE Por meio de parcerias , a
-              SUSTENTABILIZEI Quer fazer parte dessa próxima geração e
-              influenciar a conhecer o que há de mais moderno na área de
-              sustentabilidade. Nossas parcerias alcançam e educam ao redor do
-              mundo Trabalhar com Redes-Sociais para tornar a sustentabilidade
-              parte de nosso futuro coletivo é uma iniciativa que promove a
-              prosperidade e assegura nosso futuro.
+              Olá, eu sou o Danillo, e eu não fui sempre apaixonado por tecnologia, mas eu vi nela um caminho pra fazer aquilo que eu quero, e que venho querendo já a um tempo…
+               que é criar, ajudar pessoas, e com o perdão da piada, me desenvolver.  Aconteceu durante minha formação acadêmica, e aconteceu novamente aqui, na Gen. 
+               O padrão se repete, bastou que eu me adaptasse. E eu tô pronto, tô pronto pra ajudar pessoas, dessa vez no mercado da tecnologia. Uma vez mais, eu sou o Danillo, e muito obrigado pela sua atenção.
             </Typography>
           </Box>
         </Box>
@@ -47,13 +43,10 @@ function SobreNos() {
           <Box className="fontes.a">
             <Typography variant="h6" className="sus-titulo">
               {" "}
-              A SE INTERESSAR PELA SUSTENTABILIDADE Por meio de parcerias , a
-              SUSTENTABILIZEI Quer fazer parte dessa próxima geração e
-              influenciar a conhecer o que há de mais moderno na área de
-              sustentabilidade. Nossas parcerias alcançam e educam ao redor do
-              mundo Trabalhar com Redes-Sociais para tornar a sustentabilidade
-              parte de nosso futuro coletivo é uma iniciativa que promove a
-              prosperidade e assegura nosso futuro.
+              Olá a todes, eu me chamo LEANDRO WILLIAMS, quando ainda pequeno, tive contato com a língua PERL através de um jogo que eu passava horas jogando, 
+              gostava de ver as letras verdes no fundo preto, foi uma experiencia diferente! tive contato com tantas coisas, sempre procurando algo que pude-se me encaixar;
+               mais sempre fazia algum curso na área de informática, estagiei na área, dei muito suporte nessa vida, vejo que com a persistência conseguirei seguir a frente
+                para futuros desafios!
             </Typography>
           </Box>
         </Box>
@@ -69,13 +62,9 @@ function SobreNos() {
           <Box className="fontes.a">
             <Typography variant="h6" className="sus-titulo">
               {" "}
-              A SE INTERESSAR PELA SUSTENTABILIDADE Por meio de parcerias , a
-              SUSTENTABILIZEI Quer fazer parte dessa próxima geração e
-              influenciar a conhecer o que há de mais moderno na área de
-              sustentabilidade. Nossas parcerias alcançam e educam ao redor do
-              mundo Trabalhar com Redes-Sociais para tornar a sustentabilidade
-              parte de nosso futuro coletivo é uma iniciativa que promove a
-              prosperidade e assegura nosso futuro.
+              Meu nome é Leonardo, tenho 22 anos e nasci e cresci na Zona Leste de Sp, sou apaixonado por jogos, e por descobrir coisas novas. Sou formado em Gestão de T.i na Uninove,
+              mas já fiz engenharia de produção, só faltou terminar. Tive muitas perdas que fizeram eu perder a vontade de crescer, mas depois de conhecer a Generation e me dar um novo 
+              motivo para seguir me formando em Desenvolvedor Java Full Stack Jr, sei que posso agregar muito aonde for alocado e trazer profissionalismo e alegria a sua equipe.
             </Typography>
           </Box>
         </Box>
@@ -92,13 +81,10 @@ function SobreNos() {
           <Box className="fontes.a">
             <Typography variant="h6" className="sus-titulo">
               {" "}
-              A SE INTERESSAR PELA SUSTENTABILIDADE Por meio de parcerias , a
-              SUSTENTABILIZEI Quer fazer parte dessa próxima geração e
-              influenciar a conhecer o que há de mais moderno na área de
-              sustentabilidade. Nossas parcerias alcançam e educam ao redor do
-              mundo Trabalhar com Redes-Sociais para tornar a sustentabilidade
-              parte de nosso futuro coletivo é uma iniciativa que promove a
-              prosperidade e assegura nosso futuro.
+              Olá, eu sou o Danillo, e eu não fui sempre apaixonado por tecnologia, mas eu vi nela um caminho pra fazer aquilo que eu quero, e que venho querendo já a um tempo… que é criar, ajudar pessoas, e com o perdão da piada, me desenvolver. 
+               Aconteceu durante minha formação acadêmica, e aconteceu novamente aqui, na Gen. 
+               O padrão se repete, bastou que eu me adaptasse. E eu tô pronto, tô pronto pra ajudar pessoas, dessa vez no mercado da tecnologia. 
+               Uma vez mais, eu sou o Danillo, e muito obrigado pela sua atenção.
             </Typography>
           </Box>
         </Box>
@@ -115,13 +101,9 @@ function SobreNos() {
           <Box className="fontes.a">
             <Typography variant="h6" className="sus-titulo">
               {" "}
-              A SE INTERESSAR PELA SUSTENTABILIDADE Por meio de parcerias , a
-              SUSTENTABILIZEI Quer fazer parte dessa próxima geração e
-              influenciar a conhecer o que há de mais moderno na área de
-              sustentabilidade. Nossas parcerias alcançam e educam ao redor do
-              mundo Trabalhar com Redes-Sociais para tornar a sustentabilidade
-              parte de nosso futuro coletivo é uma iniciativa que promove a
-              prosperidade e assegura nosso futuro.
+              Sou Matheus, tenho 25 anos e desde pequeno sempre fui muito fã da tecnologia, sempre auxiliando a todos que necessitavam de ajuda.
+            Minha formação em administração e o contato com a música e o esporte foram três pilares muito importantes nesse desenvolvimento com a tecnologia porque nos exige habilidades
+             técnicas e comportamentais que são fundamentais nesta área e pude aplicar de forma continua como desenvolvedor.
             </Typography>
           </Box>
         </Box>
@@ -138,13 +120,11 @@ function SobreNos() {
           <Box className="fontes.a">
             <Typography variant="h6" className="sus-titulo">
               {" "}
-              A SE INTERESSAR PELA SUSTENTABILIDADE Por meio de parcerias , a
-              SUSTENTABILIZEI Quer fazer parte dessa próxima geração e
-              influenciar a conhecer o que há de mais moderno na área de
-              sustentabilidade. Nossas parcerias alcançam e educam ao redor do
-              mundo Trabalhar com Redes-Sociais para tornar a sustentabilidade
-              parte de nosso futuro coletivo é uma iniciativa que promove a
-              prosperidade e assegura nosso futuro.
+                     Eu sou a Safira, tenho 21 anos e me descobri ainda mais apaixonada no mundo da tecnologia neste ano de 2021, descobri que é nele que
+                    quero atuar profissionalmente. Antes, o que mais fazia meus olhos brilharem era a área da saúde, prova disso é o curso que 
+                    escolhi fazer: nutrição. Atualmente está trancado, mas em breve voltarei para finalizá-lo. Além de comunicativa e adaptável, 
+                    descobri que eu também sou muito persistente- só precisava desenvolver esse lado que eu não conhecia em mim. Amo viajar, cozinhar, 
+                    dormir e ter diferentes experiências e novidades!
             </Typography>
           </Box>
         </Box>
