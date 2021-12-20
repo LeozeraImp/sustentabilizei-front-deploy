@@ -36,34 +36,53 @@ function Home() {
                     </Box>
                 </Grid>
                 <Grid item xs={12}>
-                    <Box padding={5}>
-                        <Typography variant="h3" align="center" className="sus-titulo">SUSTENTABILIZE</Typography>
+                    <Box padding={2}>
+                        <Typography variant="h1" align="center" className="sus-titulo">SUSTENTABILIZE</Typography>
+                    </Box>
+                </Grid>
+                <Grid item xs={12}>
+                    <Box display="flex" justifyContent="center"padding={2}>
+                    <Box className="holder">
+                    </Box>
+                        <Box className="fontes">
+                            <Typography variant="h2" align="center" color="primary" className="sus-titulo">AJUDANDO NOVAS GERAÇOES</Typography>
+                        </Box>
+                        <Box className="fontes.a">
+                            <Typography variant="h4" > A SE INTERESSAR PELA SUSTENTABILIDADE
+Por meio de parcerias , a SUSTENTABILIZEI Quer fazer parte dessa próxima geração e influenciar a conhecer o que há de mais moderno na área de sustentabilidade. Nossas parcerias alcançam e educam ao redor do mundo Trabalhar com Redes-Sociais para tornar a sustentabilidade parte de nosso futuro coletivo é uma iniciativa que promove a prosperidade e assegura nosso futuro.</Typography>
+                        </Box>
+                        
                     </Box>
                 </Grid>
                 <Grid item xs={12}>
                     <Box display="flex" justifyContent="center" padding={2}>
+                    <Box className="holder">
+                    </Box>
                         <Box className="fontes">
-                            <Typography variant="h5" align="center" color="primary">O que é sustentabilizar?</Typography>
+                            <Typography variant="h3" align="center" color="primary">Missao</Typography>
                         </Box>
                         <Box className="fontes">
-                            <Typography variant="h5" align="center" color="primary">O que é sustentabilizar?</Typography>
+                            <Typography variant="h4" align="center" color="primary"> Tornar Visível e acessível ações socioambientais , incluindo e informando constantemente usuários pelo mundo todo. </Typography>
                         </Box>
                         <Box className="fontes">
-                            <Typography variant="h5" align="center" color="primary">O que é sustentabilizar?</Typography>
+                            <Typography variant="h3" align="center" color="primary">Visao</Typography>
                         </Box>
                         <Box className="fontes">
-                            <Typography variant="h5" align="center" color="primary">O que é sustentabilizar?</Typography>
+                            <Typography variant="h4" align="center" color="primary">Tornar o mundo mais consciente e conectado , através de redes sociais conectando por celulares, computadores e boca a boca. </Typography>
                         </Box>
+                        <Box className="fontes">
+                            <Typography variant="h3" align="center" color="primary">Valores</Typography>
+                        </Box>
+                        <Box className="fontes">
+                            <Typography variant="h4" align="center" color="primary">Liberdade de informação , Respeito e Inclusão, Responsabilidade e transparência.                     </Typography>
+                        </Box>
+                
                     </Box>
                 </Grid>
             </Grid>
             <Grid container direction="row" justifyContent="center" alignItems="center" className="grid2, page2">
                 <Box>
-                    <div className="holder">
-                        
-                        <img src="https://i.imgur.com/TzH9iup.png" alt="SUSTENTABILIZEI-AJUDANDO" />
-                        <Typography className="sus-titulo" variant="h5" align="center" color="primary">AJUDANDO NOVAS GERAÇÕES A SE INTERESSAR PELA SUSTENTABILIDADE Por meio de parcerias, a SUSTENTABILIZEI está ajudando a próxima geração a conhecer o que há de mais moderno na área de sustentabilidade. Nossas parcerias alcançam e educam ao redor do mundo Trabalhar com Redes-Sociais para tornar a sustentabilidade parte de nosso futuro coletivo é uma iniciativa que promove a prosperidade e assegura nosso futuro.</Typography>
-                    </div>
+                   
                 </Box>
             </Grid>
             <Grid container direction="row" justifyContent="center" alignItems="center" className="grid2, page2">

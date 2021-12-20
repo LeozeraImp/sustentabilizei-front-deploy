@@ -47,7 +47,7 @@ function Navbar() {
                    marginLeft = "200px" ></Box>
 
                 <Box display="flex" justifyContent="start"> 
-                    <Link to = "/feed">
+                    <Link to = "/feed" className = "text-decorator-none">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Feed
@@ -55,7 +55,7 @@ function Navbar() {
                     </Box>
                     </Link>
 
-                    <Link to = "/temas">
+                    <Link to = "/temas" className = "text-decorator-none">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Tema
@@ -63,7 +63,7 @@ function Navbar() {
                     </Box>
                     </Link>
 
-                    <Link to = "/formularioTema">
+                    <Link to = "/formularioTema" className = "text-decorator-none" >
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Cadastrar Tema
@@ -71,7 +71,7 @@ function Navbar() {
                     </Box>
                     </Link>
 
-                    <Link to = "/posts">
+                    <Link to = "/posts" className = "text-decorator-none">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Postagens
@@ -79,7 +79,7 @@ function Navbar() {
                     </Box>
                     </Link>
 
-                    <Link to = "/formularioPostagem">
+                    <Link to = "/formularioPostagem" className = "text-decorator-none">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Cadastrar Postagens
