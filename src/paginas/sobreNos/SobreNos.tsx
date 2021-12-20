@@ -81,10 +81,9 @@ function SobreNos() {
           <Box className="fontes.a">
             <Typography variant="h6" className="sus-titulo">
               {" "}
-              Olá, eu sou o Danillo, e eu não fui sempre apaixonado por tecnologia, mas eu vi nela um caminho pra fazer aquilo que eu quero, e que venho querendo já a um tempo… que é criar, ajudar pessoas, e com o perdão da piada, me desenvolver. 
-               Aconteceu durante minha formação acadêmica, e aconteceu novamente aqui, na Gen. 
-               O padrão se repete, bastou que eu me adaptasse. E eu tô pronto, tô pronto pra ajudar pessoas, dessa vez no mercado da tecnologia. 
-               Uma vez mais, eu sou o Danillo, e muito obrigado pela sua atenção.
+              Adoro aprender coisas novas, quer nas aulas, quer sozinha. Sempre adorei a escola, ler e visitar museus.
+                 Considero que em qualquer lugar existe uma oportunidade para aprender. Trato os outros com justiça é um dos meus princípios básicos. Não permito que os meus sentimentos influenciem nas minhas decisões acerca dos outros. Dou uma oportunidade a todos. Sobressaio-me nas tarefas de liderança: encorajo o grupo para fazer as coisas e manténs a harmonia entre os integrantes do grupo ao fazer com que todos se sintam incluídos. Realizo um bom trabalho organizando
+                atividades e vendo que elas se concretizam.
             </Typography>
           </Box>
         </Box>
