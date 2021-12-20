@@ -108,17 +108,22 @@ function Navbar() {
                     </div>
                     </Typography>
                 </Box>
+
+                <Link to = "/home" className = "text-decorator-none">
                 <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
                             Home
                         </Typography>
                     </Box>
+                    </Link>
 
+                    <Link to = "/sobrenos" className = "text-decorator-none">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto" id="texto1">
                             Sobre Nós
                         </Typography>
                     </Box>
+                    </Link>
 
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto" id="texto2">

@@ -20,6 +20,7 @@ import { ToastContainer } from "react-toastify"
 import 'react-toastify/dist/ReactToastify.css';
 import { Component } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
+import SobreNos from './paginas/sobreNos/SobreNos';
 
 
 
@@ -71,6 +72,9 @@ function App() {
               </Route>
               <Route path='/deletarTema/:id'>
                 <DeletarTema />
+              </Route>
+              <Route path="/sobrenos">
+                <SobreNos />
               </Route>
             </div>
           </Switch>
