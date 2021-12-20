@@ -55,7 +55,7 @@
     justify-content: start;
     margin-right: 18rem;
 }
-
+/*Formatação login*/
 
 .MuiBox-root-14, .MuiBox-root-18 {
     color: #3f51b5;
@@ -76,7 +76,7 @@
 
 .imglogo9{
  display: block; 
- width: 10%;
+ width: 40%;
 
 }
 .imglogo8{
@@ -189,6 +189,20 @@
 
 }
 
-.texto {
-    color: white;
+.jss158 {
+    display: flex;
+    justify-content: start;
+    margin-right: 340px;
+}
+
+.jss161 {
+    margin-left: 8px;
+    margin-right: -3px;
+    width: 165px;
+}
+
+.jss163 {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 211px;
 }

@@ -46,7 +46,7 @@ function Navbar() {
                    alignItems = "center"
                    marginLeft = "200px" ></Box>
 
-                <Box display="flex" justifyContent="start"> 
+                <Box display="flex" justifyContent="center"> 
                     <Link to = "/feed" className = "text-decorator-none">
                     <Box mx={1} style={{ cursor: "pointer" }} >
                         <Typography variant="h6" className="texto">
